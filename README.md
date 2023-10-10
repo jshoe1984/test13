@@ -1,2 +1,2 @@
-# test13
+# My favorite class' project :-)
 Hello
